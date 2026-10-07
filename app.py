@@ -40,7 +40,9 @@ with tab2:
     st.write("Aqui van las instrucciones")
     st.write("""# 📊 Consultor de Inventario Inteligente (Text-to-SQL & IA Executive Insights)
 
-            Una aplicación web analítica desarrollada en **Streamlit** e impulsada por **Google Gemini AI** que permite a perfiles de negocio consultar bases de datos relacionales en **lenguaje natural**. El sistema traduce automáticamente las preguntas a consultas SQL avanzadas, las ejecuta sobre SQLite en tiempo real y sintetiza resúmenes ejecutivos e insights estratégicos.
+            Una aplicación web analítica desarrollada en **Streamlit** e impulsada por **Google Gemini AI** que permite a perfiles de negocio consultar bases de datos relacionales
+             en **lenguaje natural**. El sistema traduce automáticamente las preguntas a consultas SQL avanzadas, las ejecuta sobre SQLite en tiempo real y sintetiza resúmenes
+              ejecutivos e insights estratégicos.
 
             ## Características Principales
             * Generación automática de SQL desde lenguaje natural
